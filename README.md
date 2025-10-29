@@ -41,8 +41,8 @@ An advanced analytics dashboard that predicts delivery delays using ensemble mac
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/delivery-risk-dashboard.git
-cd delivery-risk-dashboard
+(https://github.com/Yaduvir06/OFI-Problem1-solution.git)
+
 ```
 
 2. **Install dependencies**
@@ -60,7 +60,7 @@ Place these CSV files in the project root:
 
 4. **Run the dashboard**
 ```bash
-streamlit run delivery_dashboard.py
+streamlit run app.py
 ```
 
 Access at `http://localhost:8501`
