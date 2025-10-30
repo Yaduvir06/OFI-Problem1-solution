@@ -264,6 +264,9 @@ joblib==1.4.2
 ```
 
 ---
+## How it looks:
+<img width="1800" height="973" alt="image" src="https://github.com/user-attachments/assets/2034e9c3-a45c-4c94-b990-279702a59113" />
+<img width="1869" height="922" alt="image" src="https://github.com/user-attachments/assets/918f0d9c-1a7c-473b-b125-13b72f7270aa" />
 
 ## 📄 License
 
